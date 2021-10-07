@@ -1,0 +1,60 @@
+﻿kurakula kumar
+Student
+* Details
+* Education
+* Technical Skills
+* Project
+Details about me
+
+
+Name: kurakula kumar
+Age: 22
+Gender: male
+Email: kurakulakumar123@gmali.com
+Address:D NO 1-5/A, Ganduvaripalli(v), B.kothakota(M),Chittoor(D),AP,517370
+Phone_no: 9515196792
+Education Qualifications:
+
+
+
+
+
+
+Qualification
+	Name of the institude/college
+	Passing year
+	Percentage
+	B.TECH(EEE)
+        Sri Krishnadevarya University College of Engineering and Technology,Anantapur
+	2017-2021
+	64
+	INTERMEDIATE
+	Narayana Junior College,Tirupati
+	2015-2017
+	89.6
+	SSC
+	Sri Bhagavan Sai Ram School,B.kothakota
+	2014-2015
+	6.8(CGPA)
+
+
+
+
+
+
+
+
+
+
+
+Technical Skills
+* Java
+* Basic knowledge in MS office
+* Oracle
+* MySQL
+Project
+
+
+Role: Team member, Team managing
+Title:Renewable Energy Sources Integration and Control in Railway Microgrid
+ABSTRACT:The traffic rail increase implies an increase in the electric energy consumption.Hybridizing the railway substations with hybrid energy sources base on renewable energy sources and storage units connected to a DC bus may be a solution to contribute to the partial independence of enery producers in the sector of traffic rail
